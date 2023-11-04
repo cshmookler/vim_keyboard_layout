@@ -3,6 +3,7 @@
 A collection of keyboard layouts and mappings for use with Vim.
 
 Caps Lock -> Shift
-Shift -> Control
-Control -> Caps Lock
 
+Shift -> Control
+
+Control -> Caps Lock
